@@ -43,11 +43,19 @@ python main.py
 
 ## Screenshots
 
+### Step 1. Chose sorting criteria
+
 ![image](https://github.com/vicmir/bikeshareApp/assets/79836020/f7175a45-8388-4463-88ec-0c782570b68d)
+
+### Step 2. Chose minimum number of bikes or docks required
 
 ![image](https://github.com/vicmir/bikeshareApp/assets/79836020/ddcca8e3-0cfc-4e6d-86e3-bd5073c0e2a3)
 
+### Step 3. Chose number of search results to be displayed
+
 ![image](https://github.com/vicmir/bikeshareApp/assets/79836020/0af84c1e-1d6a-4dec-9ba9-f8506624fe8c)
+
+### Step 4. Reenter data or save the map with routes
 
 ![image](https://github.com/vicmir/bikeshareApp/assets/79836020/610bddc9-9002-42d8-b584-c4a6fc44644c)
 
