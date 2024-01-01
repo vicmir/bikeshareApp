@@ -42,3 +42,11 @@ python main.py
 3. Open your browser and go to http://localhost:80/app to access the application.
 
 ## Screenshots
+
+![image](https://github.com/vicmir/bikeshareApp/assets/79836020/f7175a45-8388-4463-88ec-0c782570b68d)
+
+![image](https://github.com/vicmir/bikeshareApp/assets/79836020/ddcca8e3-0cfc-4e6d-86e3-bd5073c0e2a3)
+
+![image](https://github.com/vicmir/bikeshareApp/assets/79836020/0af84c1e-1d6a-4dec-9ba9-f8506624fe8c)
+
+![image](https://github.com/vicmir/bikeshareApp/assets/79836020/62bc88b0-7a1d-4dbb-ac07-486a7d70ac5f)
