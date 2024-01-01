@@ -22,17 +22,22 @@ Before running the application, make sure you have the following dependencies in
 
 Install the dependencies using the following command:
 
-```bash
+```
 pip install flask pywebio requests folium
+```
 
 ## How to Run
 
 1. Clone the repository:
+```
 git clone https://github.com/your-username/bike-share-project.git
 cd bike-share-project
+```
 
 2. Run the application:
+```
 python main.py
+```
 
 3. Open your browser and go to http://localhost:80/app to access the application.
 
