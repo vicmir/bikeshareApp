@@ -1,4 +1,4 @@
-# Bike Share Project
+# Project 4: Bike Station Live Feed. 
 
 This is a web application that helps users find nearby bike share stations and plan their routes. The application retrieves real-time bike station data, processes it, and presents the information to the user in an interactive and visually appealing manner.
 
