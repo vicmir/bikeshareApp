@@ -30,7 +30,7 @@ pip install flask pywebio requests folium
 
 ### Step 1. Clone the repository:
 ```
-git clone https://github.com/your-username/bike-share-project.git
+git clone https://github.com/vicmir/bikeshareApp.git
 cd bike-share-project
 ```
 
