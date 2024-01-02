@@ -26,36 +26,34 @@ Install the dependencies using the following command:
 pip install flask pywebio requests folium
 ```
 
-## How to Run
+## How to Run this application
 
-1. Clone the repository:
+### Step 1. Clone the repository:
 ```
 git clone https://github.com/your-username/bike-share-project.git
 cd bike-share-project
 ```
 
-2. Run the application:
+### Step 2. Run the application:
 ```
 python main.py
 ```
 
-3. Open your browser and go to http://localhost:80/app to access the application.
+### Step 3. After running the application, the browser will be opened automatically at http://localhost:80/app.
 
-## Screenshots
-
-### Step 1. Chose sorting criteria
+### Step 4. Chose a search parameter (bikes or docks):
 
 ![image](https://github.com/vicmir/bikeshareApp/assets/79836020/f7175a45-8388-4463-88ec-0c782570b68d)
 
-### Step 2. Chose minimum number of bikes or docks required
+### Step 5. Chose minimum number of free bikes or docks required or enter "all":
 
 ![image](https://github.com/vicmir/bikeshareApp/assets/79836020/ddcca8e3-0cfc-4e6d-86e3-bd5073c0e2a3)
 
-### Step 3. Chose number of search results to be displayed
+### Step 6. Chose number of search results to be displayed:
 
 ![image](https://github.com/vicmir/bikeshareApp/assets/79836020/0af84c1e-1d6a-4dec-9ba9-f8506624fe8c)
 
-### Step 4. Reenter data or save the map with routes
+### Step 7. Reenter data or save the map with routes:
 
 ![image](https://github.com/vicmir/bikeshareApp/assets/79836020/610bddc9-9002-42d8-b584-c4a6fc44644c)
 
