@@ -44,18 +44,18 @@ python main.py
 
 ### Step 4. Chose a search parameter (bikes or docks):
 
-![image](https://github.com/vicmir/bikeshareApp/assets/79836020/60d45e44-9bf9-430b-9edc-2d7473541a6b)
+![image](https://github.com/vicmir/bikeshareApp/assets/79836020/af52bddc-ca21-4436-9655-d4fa370b2b29)
 
 ### Step 5. Chose minimum number of free bikes or docks required or enter "all":
 
-![image](https://github.com/vicmir/bikeshareApp/assets/79836020/e00c7d51-576c-441b-84e6-ffd5949f6498)
+![image](https://github.com/vicmir/bikeshareApp/assets/79836020/aa8856fe-bbcf-48eb-8bf6-6e1a22ba7a3d)
 
 ### Step 6. Chose number of search results to be displayed:
 
-![image](https://github.com/vicmir/bikeshareApp/assets/79836020/4facb1b1-ceaf-48eb-b618-6a1e63a4ce2e)
+![image](https://github.com/vicmir/bikeshareApp/assets/79836020/14fb26ca-d18d-4f15-9d63-15fdadaa4bbd)
 
 ### Step 7. Reenter data or save the map with routes:
 
-![image](https://github.com/vicmir/bikeshareApp/assets/79836020/daeb0197-5b9c-445e-93a0-685d0a755594)
+![image](https://github.com/vicmir/bikeshareApp/assets/79836020/61c764a4-aae0-4198-b57d-48bdc20da325)
 
-![image](https://github.com/vicmir/bikeshareApp/assets/79836020/6e7f6e5c-263a-4e00-8561-3aab1ccf8b4e)
+![image](https://github.com/vicmir/bikeshareApp/assets/79836020/91579a7c-27e4-4182-89d3-ffe6349d6299)
