@@ -1,4 +1,4 @@
-# # Importing necessary libraries for distance calculation
+# Importing necessary libraries for distance calculation
 from math import radians, sin, cos, sqrt, atan2
 
 # Function to calculate the haversine distance between two sets of latitude and longitude coordinates

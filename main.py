@@ -4,7 +4,7 @@ import time
 import folium
 import webbrowser
 from pywebio.input import input, select
-from pywebio.output import put_text, put_button, put_image, put_table, put_error, put_tabs
+from pywebio.output import put_text, put_button, put_image, put_table, put_error
 from pywebio.platform.flask import webio_view
 from flask import Flask, send_from_directory
 from data_retrieval import get_stations_data

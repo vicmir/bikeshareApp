@@ -12,7 +12,7 @@ This is a web application that helps users find nearby bike share stations and p
 
 ## Prerequisites
 
-Before running the application, make sure you have the following dependencies installed:
+Before running the application, the following dependencies should be installed:
 
 - Python 3.x
 - Flask
@@ -30,8 +30,9 @@ pip install flask pywebio requests folium
 
 ### Step 1. Clone the repository:
 ```
-git clone https://github.com/your-username/bike-share-project.git
-cd bike-share-project
+git clone https://github.com/vicmir/bikeshareApp.git
+
+cd bikeshareApp
 ```
 
 ### Step 2. Run the application:
