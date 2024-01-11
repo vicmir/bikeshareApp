@@ -39,7 +39,7 @@ cd bike-share-project
 python main.py
 ```
 
-### Step 3. After running the application, the browser will be opened automatically at http://localhost:80/app.
+### Step 3. After running the application, the browser will be opened automatically at http://localhost:80/app
 
 ### Step 4. Chose a search parameter (bikes or docks):
 
