@@ -58,4 +58,5 @@ python main.py
 
 ![image](https://github.com/vicmir/bikeshareApp/assets/79836020/61c764a4-aae0-4198-b57d-48bdc20da325)
 
-![image](https://github.com/vicmir/bikeshareApp/assets/79836020/29a6c356-24e8-495f-9422-86159dc05419)
+![image](https://github.com/vicmir/bikeshareApp/assets/79836020/d09550b9-9b69-4911-951d-7b37606bd4ff)
+
