@@ -43,7 +43,7 @@ Given the dataset containing bike station information and the requirement to par
 
 ## Prerequisites
 
-Before running the application, the following dependencies should be installed:
+Before running the application, make sure that you are connected to the internet and that you have the following dependencies installed:
 
 - Python 3.x
 - Flask
