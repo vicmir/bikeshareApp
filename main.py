@@ -93,7 +93,7 @@ def main():
 
     # Displaying nearby stations in a table
     line = " "
-    put_text(line) # ...
+    put_text(line) # Blank line for indentation between image and table
 
     # Displaying an error message if no results are found
     if len(nearest_stations) == 0:
