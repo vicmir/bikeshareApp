@@ -7,7 +7,7 @@ Given the dataset containing bike station information and the requirement to par
 2. Finding K-nearest bike stations where docks are available for a person with a bike.
 3. Presenting a route on Google Maps from a source to a destination using only foot and bike transport.
 
-## Features
+## 📌 Features
 
 - **User Location:** Automatically detects the user's location using their IP address.
 - **Search Parameters:** Allows users to choose between searching for available bikes or docks.
@@ -15,7 +15,7 @@ Given the dataset containing bike station information and the requirement to par
 - **Interactive Map:** Displays a map with the user's location, nearby stations, and the route to the selected station.
 - **Results Table:** Presents a table with detailed information about nearby stations, including the station name, bikes available, docks available, and distance from the user.
 
-## Module, data structures, tools used in the project
+## 📌 Module, data structures, tools used in the project
 
 **Tools:**
 - **Python:** The primary programming language for data processing and analysis.
@@ -41,7 +41,7 @@ Given the dataset containing bike station information and the requirement to par
 - **Google Maps API:** Utilized to obtain routing information and visualize bike routes on Google Maps, enhancing the user experience.
 - **Bike Station Live Feed API:** Employed to fetch real-time data on bike station information, ensuring the application reflects the most recent status of bike stations.
 
-## Prerequisites
+## 📌 Prerequisites
 
 Before running the application, make sure that you are connected to the internet and that you have the following dependencies installed:
 
@@ -57,7 +57,7 @@ Install the dependencies using the following command:
 pip install flask pywebio requests folium
 ```
 
-## How to Run this application
+## 📌 How to Run this application
 
 ### Step 1. Run the application localy or clone the repository:
 ```
