@@ -1,4 +1,4 @@
-# Bike Station Live Feed 
+# 🚲 Bike Station Live Feed 
 
 The project aims to leverage data science techniques to analyze the live feed of bike stations, specifically focusing on finding the nearest bike stations based on available bikes or docks and presenting a route on Google Maps for bike users. Developed application helps users find nearby bike share stations and plan their routes. The application retrieves real-time bike station data, processes it, and presents the information to the user in a visually appealing manner. To achieve these goals, the live feed of Metro Bike Share in Los Angeles city was processed. More specifically, the data collected in a file in JSON format was used.
 
