@@ -1,4 +1,6 @@
-# 🚲 Bike Station Live Feed 
+<h1 align="center">🚲 Bike Station Live Feed</h1>
+
+<p align="center"> <!-- Core Language --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <!-- Modules --> <img src="https://img.shields.io/badge/requests-FF9E0F?style=for-the-badge&logo=python&logoColor=white" alt="requests"/> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/> <img src="https://img.shields.io/badge/geocoder-4CAF50?style=for-the-badge&logo=python&logoColor=white" alt="geocoder"/> <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white" alt="Folium"/> <!-- Web Frameworks --> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/> <img src="https://img.shields.io/badge/PyWebIO-0081CB?style=for-the-badge&logo=python&logoColor=white" alt="PyWebIO"/> </p>
 
 The project aims to leverage data science techniques to analyze the live feed of bike stations, specifically focusing on finding the nearest bike stations based on available bikes or docks and presenting a route on Google Maps for bike users. Developed application helps users find nearby bike share stations and plan their routes. The application retrieves real-time bike station data, processes it, and presents the information to the user in a visually appealing manner. To achieve these goals, the live feed of Metro Bike Share in Los Angeles city was processed. More specifically, the data collected in a file in JSON format was used.
 
@@ -89,3 +91,11 @@ python main.py
 
 ![image](https://github.com/vicmir/bikeshareApp/assets/79836020/61c764a4-aae0-4198-b57d-48bdc20da325)
 ![image](https://github.com/vicmir/bikeshareApp/assets/79836020/d09550b9-9b69-4911-951d-7b37606bd4ff)
+
+## 📌 Credits
+
+Here're the credits to **Bike Station Live Feed API** used in development:
+
+<p align="center">
+ <a href="https://bikeshare.metro.net/about/data/" title="Metro Bike Share: Bike Station Live Feed API"> <img src="https://img.shields.io/badge/API-Bike%20Station%20Live%20Feed-C6D300?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Bike Station Live Feed API"> </a>
+</p>
